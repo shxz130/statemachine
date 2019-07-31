@@ -139,3 +139,4 @@ Disconnected from the target VM, address: '127.0.0.1:61095', transport: 'socket'
 ```
 这个例子写的比较粗，懂其意思即可。
 感兴趣的可以看源码，我把状态机核心和demo做了分离，了解使用，仅关心demo即可，想了解原理，查看core即可。
+欢迎fork交流。
